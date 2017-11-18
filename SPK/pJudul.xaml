@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="SPK.pJudul"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="164" d:DesignWidth="1380">
+    <Grid>
+        <Rectangle Fill="#374fbf" HorizontalAlignment="Left" Height="154" Stroke="Black" VerticalAlignment="Top" Width="1372"/>
+        <Rectangle Fill="#f2ff00" HorizontalAlignment="Left" Height="10" Margin="0,154,0,0" Stroke="Black" VerticalAlignment="Top" Width="1372"/>
+        <TextBlock x:Name="tblJudul" FontFamily="SegoeUI" FontSize="80" Foreground="White" HorizontalAlignment="Left" Height="72" Margin="10,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179"><Run Text="Ko"/><Run Text="n"/><Run Text="s"/></TextBlock>
+        <TextBlock x:Name="tblJudul2" FontFamily="SegoeUI" FontSize="80" Foreground="#ffff00" HorizontalAlignment="Left" Height="72" Margin="173,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Text="TI"/>
+        <TextBlock x:Name="tblSubJudul" FontFamily="SegoeUI" FontSize="25" Foreground="White" HorizontalAlignment="Left" Height="38" Margin="16,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="579"><Run Text="Sistem Pendukung P"/><Run Text="emilihan Konsentrasi TI"/></TextBlock>
+
+
+    </Grid>
+</UserControl>

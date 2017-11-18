@@ -1,0 +1,123 @@
+D:\Project\Visual Studio\SPK\SPK\bin\Debug\SPK.exe.config
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\InputWindow.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\MainWindow.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\App.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK_MarkupCompile.cache
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK_MarkupCompile.lref
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester1.g.cs
+D:\Project\Visual Studio\SPK\SPK\bin\Debug\SPK.exe
+D:\Project\Visual Studio\SPK\SPK\bin\Debug\SPK.pdb
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\InputWindow.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\MainWindow.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester1.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK.g.resources
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK.Properties.Resources.resources
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK.csproj.GenerateResource.Cache
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK.exe
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK.pdb
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\SPK.csprojResolveAssemblyReference.cache
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pJudul.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pLangkah.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pJudul.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pLangkah.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester1.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester2.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester3.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester1.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester2.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester3.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester2.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester2.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester3.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester3.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pHasil.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester4.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucHasil.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester4.g.cs
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pHasil.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\pSemester4.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucHasil.baml
+D:\Project\Visual Studio\SPK\SPK\obj\Debug\ucSemester4.baml
+E:\SPK\SPK\bin\Debug\SPK.exe.config
+E:\SPK\SPK\obj\Debug\SPK.exe
+E:\SPK\SPK\obj\Debug\SPK.pdb
+E:\SPK\SPK\bin\Debug\SPK.exe
+E:\SPK\SPK\bin\Debug\SPK.pdb
+E:\SPK\SPK\obj\Debug\SPK.csprojResolveAssemblyReference.cache
+E:\SPK\SPK\obj\Debug\pJudul.baml
+E:\SPK\SPK\obj\Debug\pLangkah.baml
+E:\SPK\SPK\obj\Debug\InputWindow.g.cs
+E:\SPK\SPK\obj\Debug\MainWindow.g.cs
+E:\SPK\SPK\obj\Debug\pHasil.g.cs
+E:\SPK\SPK\obj\Debug\pJudul.g.cs
+E:\SPK\SPK\obj\Debug\pLangkah.g.cs
+E:\SPK\SPK\obj\Debug\pSemester1.g.cs
+E:\SPK\SPK\obj\Debug\pSemester2.g.cs
+E:\SPK\SPK\obj\Debug\pSemester3.g.cs
+E:\SPK\SPK\obj\Debug\pSemester4.g.cs
+E:\SPK\SPK\obj\Debug\ucHasil.g.cs
+E:\SPK\SPK\obj\Debug\ucSemester1.g.cs
+E:\SPK\SPK\obj\Debug\ucSemester2.g.cs
+E:\SPK\SPK\obj\Debug\ucSemester3.g.cs
+E:\SPK\SPK\obj\Debug\ucSemester4.g.cs
+E:\SPK\SPK\obj\Debug\App.g.cs
+E:\SPK\SPK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SPK\SPK\obj\Debug\SPK_MarkupCompile.cache
+E:\SPK\SPK\obj\Debug\SPK_MarkupCompile.lref
+E:\SPK\SPK\obj\Debug\InputWindow.baml
+E:\SPK\SPK\obj\Debug\MainWindow.baml
+E:\SPK\SPK\obj\Debug\pHasil.baml
+E:\SPK\SPK\obj\Debug\pSemester1.baml
+E:\SPK\SPK\obj\Debug\pSemester2.baml
+E:\SPK\SPK\obj\Debug\pSemester3.baml
+E:\SPK\SPK\obj\Debug\pSemester4.baml
+E:\SPK\SPK\obj\Debug\ucHasil.baml
+E:\SPK\SPK\obj\Debug\ucSemester1.baml
+E:\SPK\SPK\obj\Debug\ucSemester2.baml
+E:\SPK\SPK\obj\Debug\ucSemester3.baml
+E:\SPK\SPK\obj\Debug\ucSemester4.baml
+E:\SPK\SPK\obj\Debug\SPK.g.resources
+E:\SPK\SPK\obj\Debug\SPK.Properties.Resources.resources
+E:\SPK\SPK\obj\Debug\SPK.csproj.GenerateResource.Cache
+D:\SPK\SPK\SPK\SPK\bin\Debug\SPK.exe.config
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK.exe
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK.pdb
+D:\SPK\SPK\SPK\SPK\bin\Debug\SPK.exe
+D:\SPK\SPK\SPK\SPK\bin\Debug\SPK.pdb
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK.csprojResolveAssemblyReference.cache
+D:\SPK\SPK\SPK\SPK\obj\Debug\pJudul.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\pLangkah.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\InputWindow.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\MainWindow.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\pHasil.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\pJudul.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\pLangkah.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester1.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester2.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester3.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester4.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucHasil.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester1.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester2.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester3.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester4.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\App.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK_MarkupCompile.cache
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK_MarkupCompile.lref
+D:\SPK\SPK\SPK\SPK\obj\Debug\InputWindow.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\MainWindow.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\pHasil.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester1.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester2.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester3.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\pSemester4.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucHasil.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester1.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester2.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester3.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\ucSemester4.baml
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK.g.resources
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK.Properties.Resources.resources
+D:\SPK\SPK\SPK\SPK\obj\Debug\SPK.csproj.GenerateResource.Cache

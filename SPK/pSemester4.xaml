@@ -1,0 +1,162 @@
+﻿<UserControl x:Class="SPK.pSemester4"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SPK"
+             mc:Ignorable="d" 
+  d:DesignHeight="533" d:DesignWidth="1380">
+    <Grid>
+
+
+        <Rectangle Fill="White" StrokeThickness="0" HorizontalAlignment="Left" Height="538" Stroke="Black" VerticalAlignment="Top" Width="1380" Margin="0,-1,0,-4"/>
+        <StackPanel Background="#FFEEEEEE" HorizontalAlignment="Left" Height="355" Margin="331,86,0,0" VerticalAlignment="Top" Width="741"/>
+
+        <TextBlock x:Name="textBlock" FontFamily="SegoeUI" FontSize="20"  HorizontalAlignment="Left" Height="42" Margin="456,100,0,0" TextWrapping="Wrap" Text="Teknik Visualisasi Grafis" VerticalAlignment="Top" Width="296" Padding="0,20,0,0"/>
+
+        <TextBlock x:Name="textBlock1" FontSize="20" FontFamily="SegoeUI"  HorizontalAlignment="Left" Height="42" Margin="456,154,0,0" TextWrapping="Wrap" Text="Teknik Digital" VerticalAlignment="Top" Width="272" Padding="0,20,0,0"/>
+
+        <TextBlock x:Name="textBlock2" FontSize="20" FontFamily="SegoeUI" HorizontalAlignment="Left" Height="42" Margin="456,208,0,0" TextWrapping="Wrap" Text="Kecerdasan Buatan" VerticalAlignment="Top" Width="296" Padding="0,20,0,0"/>
+
+
+        <Rectangle HorizontalAlignment="Left" Fill="White" Height="42" RadiusY="5" RadiusX="5" Stroke="#FFDADADA" VerticalAlignment="Top" Width="150" StrokeThickness="3" Margin="782,100,0,0"/>
+        <TextBlock Height="32" TextWrapping="Wrap" Text="6" Width="14" FontSize="20" FontFamily="Webdings" RenderTransformOrigin="1.179,-2.234" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="912,110,454,391"/>
+        <ComboBox x:Name="cbTVG" FontSize="22" GotFocus="cbTVG_GotFocus" LostFocus="cbTVG_LostFocus" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="782,100,0,0" VerticalAlignment="Top" Width="150" BorderThickness="0,0,0,3" Background="White" Opacity="0" HorizontalContentAlignment="Center">
+            <ComboBoxItem>A</ComboBoxItem>
+            <ComboBoxItem>A -</ComboBoxItem>
+            <ComboBoxItem>A/B</ComboBoxItem>
+            <ComboBoxItem>B +</ComboBoxItem>
+            <ComboBoxItem>B</ComboBoxItem>
+            <ComboBoxItem>B -</ComboBoxItem>
+            <ComboBoxItem>B/C</ComboBoxItem>
+            <ComboBoxItem>C+</ComboBoxItem>
+            <ComboBoxItem>C</ComboBoxItem>
+            <ComboBoxItem>C-</ComboBoxItem>
+            <ComboBoxItem>C/D</ComboBoxItem>
+            <ComboBoxItem>D +</ComboBoxItem>
+            <ComboBoxItem>D</ComboBoxItem>
+            <ComboBoxItem>D -</ComboBoxItem>
+            <ComboBoxItem>D/E</ComboBoxItem>
+            <ComboBoxItem>E +</ComboBoxItem>
+            <ComboBoxItem>E</ComboBoxItem>
+        </ComboBox>
+
+        <Rectangle HorizontalAlignment="Left" Fill="White" Height="42" RadiusY="5" RadiusX="5" Stroke="#FFDADADA" VerticalAlignment="Top" Width="150" StrokeThickness="3" Margin="782,154,0,0"/>
+        <TextBlock Height="32" TextWrapping="Wrap" Text="6" Width="14" FontSize="20" FontFamily="Webdings" RenderTransformOrigin="1.179,-2.234" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="912,165,454,336"/>
+        <ComboBox x:Name="cbTekdig" FontSize="22" GotFocus="cbTekdig_GotFocus" LostFocus="cbTekdig_LostFocus" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="782,158,0,0" VerticalAlignment="Top" Width="150" BorderThickness="0,0,0,3" Background="White" Opacity="0" HorizontalContentAlignment="Center">
+            <ComboBoxItem>A</ComboBoxItem>
+            <ComboBoxItem>A -</ComboBoxItem>
+            <ComboBoxItem>A/B</ComboBoxItem>
+            <ComboBoxItem>B +</ComboBoxItem>
+            <ComboBoxItem>B</ComboBoxItem>
+            <ComboBoxItem>B -</ComboBoxItem>
+            <ComboBoxItem>B/C</ComboBoxItem>
+            <ComboBoxItem>C+</ComboBoxItem>
+            <ComboBoxItem>C</ComboBoxItem>
+            <ComboBoxItem>C-</ComboBoxItem>
+            <ComboBoxItem>C/D</ComboBoxItem>
+            <ComboBoxItem>D +</ComboBoxItem>
+            <ComboBoxItem>D</ComboBoxItem>
+            <ComboBoxItem>D -</ComboBoxItem>
+            <ComboBoxItem>D/E</ComboBoxItem>
+            <ComboBoxItem>E +</ComboBoxItem>
+            <ComboBoxItem>E</ComboBoxItem>
+        </ComboBox>
+
+        <Rectangle HorizontalAlignment="Left" Fill="White" Height="42" RadiusY="5" RadiusX="5" Stroke="#FFDADADA" VerticalAlignment="Top" Width="150" StrokeThickness="3" Margin="782,208,0,0"/>
+        <TextBlock Height="32" TextWrapping="Wrap" Text="6" Width="14" FontSize="20" FontFamily="Webdings" RenderTransformOrigin="1.179,-2.234" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="912,223,454,278"/>
+        <ComboBox x:Name="cbCerbut" FontSize="22" GotFocus="cbCerbut_GotFocus" LostFocus="cbCerbut_LostFocus" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="782,212,0,0" VerticalAlignment="Top" Width="150" BorderThickness="0,0,0,3" Background="White" Opacity="0" HorizontalContentAlignment="Center">
+            <ComboBoxItem>A</ComboBoxItem>
+            <ComboBoxItem>A -</ComboBoxItem>
+            <ComboBoxItem>A/B</ComboBoxItem>
+            <ComboBoxItem>B +</ComboBoxItem>
+            <ComboBoxItem>B</ComboBoxItem>
+            <ComboBoxItem>B -</ComboBoxItem>
+            <ComboBoxItem>B/C</ComboBoxItem>
+            <ComboBoxItem>C+</ComboBoxItem>
+            <ComboBoxItem>C</ComboBoxItem>
+            <ComboBoxItem>C-</ComboBoxItem>
+            <ComboBoxItem>C/D</ComboBoxItem>
+            <ComboBoxItem>D +</ComboBoxItem>
+            <ComboBoxItem>D</ComboBoxItem>
+            <ComboBoxItem>D -</ComboBoxItem>
+            <ComboBoxItem>D/E</ComboBoxItem>
+            <ComboBoxItem>E +</ComboBoxItem>
+            <ComboBoxItem>E</ComboBoxItem>
+        </ComboBox>
+
+        <Rectangle RadiusX="7" RadiusY="7" StrokeThickness="0" Fill="#374fbf" HorizontalAlignment="Left" Height="48" Margin="936,462,0,0" Stroke="Black" VerticalAlignment="Top" Width="136"/>
+        <Button x:Name="bTerus4" Click="bTerus4_Click" BorderThickness="0" Content="Selesai" FontSize="20" Foreground="White" Opacity="100" HorizontalAlignment="Left" Height="48" Margin="936,462,0,0" VerticalAlignment="Top" Width="136">
+            <Button.Background>
+                <SolidColorBrush Color="#FF040404" Opacity="0"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="textBlock2_Copy" FontSize="20" FontFamily="SegoeUI" HorizontalAlignment="Left" Height="42" Margin="456,262,0,0" TextWrapping="Wrap" Text="Arsitektur Perangkat Lunak" VerticalAlignment="Top" Width="296" Padding="0,20,0,0"/>
+        <Rectangle HorizontalAlignment="Left" Fill="White" Height="42" RadiusY="5" RadiusX="5" Stroke="#FFDADADA" VerticalAlignment="Top" Width="150" StrokeThickness="3" Margin="782,263,0,0"/>
+        <TextBlock Height="32" TextWrapping="Wrap" Text="6" Width="14" FontSize="20" FontFamily="Webdings" RenderTransformOrigin="1.179,-2.234" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="912,278,454,223"/>
+        <ComboBox x:Name="cbAPL" FontSize="22" GotFocus="cbAPL_GotFocus" LostFocus="cbAPL_LostFocus" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="782,267,0,0" VerticalAlignment="Top" Width="150" BorderThickness="0,0,0,3" Background="White" Opacity="0" HorizontalContentAlignment="Center">
+            <ComboBoxItem Content="A"/>
+            <ComboBoxItem Content="A -"/>
+            <ComboBoxItem Content="A/B"/>
+            <ComboBoxItem Content="B +"/>
+            <ComboBoxItem Content="B"/>
+            <ComboBoxItem Content="B -"/>
+            <ComboBoxItem Content="B/C"/>
+            <ComboBoxItem Content="C+"/>
+            <ComboBoxItem Content="C"/>
+            <ComboBoxItem Content="C-"/>
+            <ComboBoxItem Content="C/D"/>
+            <ComboBoxItem Content="D +"/>
+            <ComboBoxItem Content="D"/>
+            <ComboBoxItem Content="D -"/>
+            <ComboBoxItem Content="D/E"/>
+            <ComboBoxItem Content="E +"/>
+            <ComboBoxItem Content="E"/>
+        </ComboBox>
+        <TextBlock x:Name="textBlock2_Copy1" FontSize="20" FontFamily="SegoeUI" HorizontalAlignment="Left" Height="42" Margin="456,316,0,0" TextWrapping="Wrap" Text="Rekayasa Perangkat Lunak" VerticalAlignment="Top" Width="296" Padding="0,20,0,0"/>
+        <Rectangle HorizontalAlignment="Left" Fill="White" Height="42" RadiusY="5" RadiusX="5" Stroke="#FFDADADA" VerticalAlignment="Top" Width="150" StrokeThickness="3" Margin="782,316,0,0"/>
+        <TextBlock Height="32" TextWrapping="Wrap" Text="6" Width="14" FontSize="20" FontFamily="Webdings" RenderTransformOrigin="1.179,-2.234" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="912,331,454,170"/>
+        <ComboBox x:Name="cbRPL" FontSize="22" GotFocus="cbRPL_GotFocus" LostFocus="cbRPL_LostFocus" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="782,320,0,0" VerticalAlignment="Top" Width="150" BorderThickness="0,0,0,3" Background="White" Opacity="0" HorizontalContentAlignment="Center">
+            <ComboBoxItem Content="A"/>
+            <ComboBoxItem Content="A -"/>
+            <ComboBoxItem Content="A/B"/>
+            <ComboBoxItem Content="B +"/>
+            <ComboBoxItem Content="B"/>
+            <ComboBoxItem Content="B -"/>
+            <ComboBoxItem Content="B/C"/>
+            <ComboBoxItem Content="C+"/>
+            <ComboBoxItem Content="C"/>
+            <ComboBoxItem Content="C-"/>
+            <ComboBoxItem Content="C/D"/>
+            <ComboBoxItem Content="D +"/>
+            <ComboBoxItem Content="D"/>
+            <ComboBoxItem Content="D -"/>
+            <ComboBoxItem Content="D/E"/>
+            <ComboBoxItem Content="E +"/>
+            <ComboBoxItem Content="E"/>
+        </ComboBox>
+        <TextBlock x:Name="textBlock2_Copy2" FontSize="20" FontFamily="SegoeUI" HorizontalAlignment="Left" Height="42" Margin="456,371,0,0" TextWrapping="Wrap" Text="Interaksi Manusia dan Komputer" VerticalAlignment="Top" Width="296" Padding="0,20,0,0"/>
+        <Rectangle HorizontalAlignment="Left" Fill="White" Height="42" RadiusY="5" RadiusX="5" Stroke="#FFDADADA" VerticalAlignment="Top" Width="150" StrokeThickness="3" Margin="782,367,0,0"/>
+        <TextBlock Height="32" TextWrapping="Wrap" Text="6" Width="14" FontSize="20" FontFamily="Webdings" RenderTransformOrigin="1.179,-2.234" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="912,382,454,119"/>
+        <ComboBox x:Name="cbIMK" FontSize="22" GotFocus="cbIMK_GotFocus" LostFocus="cbIMK_LostFocus" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="782,371,0,0" VerticalAlignment="Top" Width="150" BorderThickness="0,0,0,3" Background="White" Opacity="0" HorizontalContentAlignment="Center">
+            <ComboBoxItem Content="A"/>
+            <ComboBoxItem Content="A -"/>
+            <ComboBoxItem Content="A/B"/>
+            <ComboBoxItem Content="B +"/>
+            <ComboBoxItem Content="B"/>
+            <ComboBoxItem Content="B -"/>
+            <ComboBoxItem Content="B/C"/>
+            <ComboBoxItem Content="C+"/>
+            <ComboBoxItem Content="C"/>
+            <ComboBoxItem Content="C-"/>
+            <ComboBoxItem Content="C/D"/>
+            <ComboBoxItem Content="D +"/>
+            <ComboBoxItem Content="D"/>
+            <ComboBoxItem Content="D -"/>
+            <ComboBoxItem Content="D/E"/>
+            <ComboBoxItem Content="E +"/>
+            <ComboBoxItem Content="E"/>
+        </ComboBox>
+        <TextBlock x:Name="tblLarang" Visibility="Hidden" FontSize="22" Foreground="Red" HorizontalAlignment="Left" Height="24" Margin="584,413,0,0" TextWrapping="Wrap" Text="Semua harus diisi!!" VerticalAlignment="Top" Width="344" FontWeight="SemiBold"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="SPK.pHasil"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SPK"
+             mc:Ignorable="d" 
+  d:DesignHeight="533" d:DesignWidth="1380">
+    <Grid>
+
+
+        <Rectangle Fill="White" StrokeThickness="0" HorizontalAlignment="Left" Height="538" Stroke="Black" VerticalAlignment="Top" Width="1380" Margin="0,-1,0,-4"/>
+        <StackPanel Background="#FFEEEEEE" HorizontalAlignment="Center" Height="355" Margin="0,86,0,0" VerticalAlignment="Top" Width="741"/>
+        <TextBlock x:Name="tblKalimat" FontSize="30" HorizontalAlignment="Center" Margin="418,120,404,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="85" Width="558"><Run Text="  "/><Run Text="Urutan konsentrasi terbaik untuk hidup"/></TextBlock>
+
+        <TextBlock x:Name="tblHasil" FontSize="30" HorizontalAlignment="Center" Margin="546,230,540,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="61" Width="294" Text=" "/>
+        <TextBlock x:Name="tblHasil2" FontSize="30" HorizontalAlignment="Center" Margin="546,296,542,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="59" Width="292" Text=" "/>
+        <TextBlock x:Name="tblHasil3" FontSize="30" HorizontalAlignment="Center" Margin="544,360,543,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="63" Width="293" Text=" "/>
+        <Rectangle RadiusX="7" RadiusY="7" StrokeThickness="0" Fill="Red" HorizontalAlignment="Left" Height="47" Margin="628,460,0,0" Stroke="Black" VerticalAlignment="Top" Width="136"/>
+        <Button x:Name="bRestart" Click="bRestart_Click" BorderThickness="0" Content="Ulang" FontSize="20" Foreground="White" Opacity="100" HorizontalAlignment="Left" Height="47" Margin="628,460,0,0" VerticalAlignment="Top" Width="136">
+            <Button.Background>
+                <SolidColorBrush Color="#FF040404" Opacity="0"/>
+            </Button.Background>
+        </Button>
+
+
+    </Grid>
+</UserControl>
